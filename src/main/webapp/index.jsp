@@ -16,5 +16,5 @@
 <%--
 <jsp:forward page="/cmm/main/mainPage.do"/>
 --%>
-test 입니다.
+test 입니다.2
 <script type="text/javaScript">document.location.href="<c:url value='/cmm/main/mainPage.do'/>"</script> 
